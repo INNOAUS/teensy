@@ -30,6 +30,6 @@ Win木马地址: http://www.test.com/test.exe(win)
 Lnx木马地址: http://www.test.com/test.exe(linux)
 
 
-
+更多脚本请浏览 https://github.com/samratashok/Kautilya
 '仅供学习交流,请勿非法用途
 
