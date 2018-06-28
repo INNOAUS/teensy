@@ -1,4 +1,6 @@
-# teensy
+# BadUSB
+支持 teensy ，USB 橡皮鸭， 烧鹅，Arduino
+
 ## 文件说明
 
 
