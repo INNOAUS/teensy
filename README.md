@@ -20,22 +20,23 @@
 
 
 ###  _win_hacked_by.ino
-输出语句
+输出语句，演示
 
 
 
 ### _win_lnx_HttpDownExec.ino
 
-win/linux下载者
-Win木马地址: http://www.test.com/test.exe
+win/linux下载者（替换地址）
+Win木马地址: http://www.test.com/xxoo.out
 
 Lnx木马地址: http://www.test.com/test.exe
 
 ### testcode 
-比较稳定的示例写法，支持所有版本的WINDOWS系统
+比较稳定的示例写法，测试支持WIN7,WIN8,WIN10系统；其他自测
 
 ### 提示
-如果遇到中文输入法问题请加上两行代码
+
+由于使用中文输入法，模拟输入错误命令；如果遇到中文输入法问题请加上两行代码
 
 Keyboard.press(KEY_CAPS_LOCK); //按下大写键 这里我们最好这样写 不然大多数电脑在中文输入的情况下就会出现问题
 
