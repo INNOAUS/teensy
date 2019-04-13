@@ -28,9 +28,9 @@
 
 win/linux下载者（替换地址）
 
-Win木马地址: http://www.test.com/xxoo.out
+linux木马地址: http://www.test.com/xxoo.out
 
-Lnx木马地址: http://www.test.com/test.exe
+Win木马地址: http://www.test.com/test.exe
 
 ### testcode 
 比较稳定的示例写法，测试支持WIN7,WIN8,WIN10系统；其他自测
