@@ -24,7 +24,7 @@ Keyboard.release('r');//松掉r键
 
 delay(500);
 
-Keyboard.println("cmd");//正常cmd窗口运行
+Keyboard.println("cmd");//正常cmd窗口运行,输入你自己的命令
 //Keyboard.println("CMD /t:01 /k \"@ECHO OFF && MODE CON:cols=15 lines=1 && TITLE iNSTALLING dRIVERS\"");//隐藏cmd窗口运行
 
 delay(500);
