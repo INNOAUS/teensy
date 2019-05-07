@@ -9,13 +9,13 @@
 
 打开 3389端口 添加用户  
 用户: admin
-密码: admin@lr3800
+密码: admin
 
 ### _win_CMDaddAdminUser.ino
 
 添加管理员
 用户: admin
-密码: admin@lr3800
+密码: admin
 
 
 
