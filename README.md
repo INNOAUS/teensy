@@ -49,3 +49,30 @@ Keyboard.release(KEY_CAPS_LOCK); //释放大写键
 
 '仅供学习交流,请勿非法用途
 
+
+BadUSB
+Support teensy, USB rubber duck, roast goose, Arduino
+## Document description
+### win_cmdAdd3389Admin.ino
+Open port 3389 to add users
+User: admin
+Password: admin
+### win_CMDaddAdminUser.ino
+Added Administrator
+User: admin
+Password: admin
+### win_hacked_by.ino
+Output statement, demonstration
+### win_lnx_HttpDownExec.ino
+Win/linux downloader (replacement address)
+Linux Trojan Horse Address: http://www.test.com/xxoo.out
+Win Trojan Horse Address: http://www.test.com/test.exe
+Testcode
+More stable example writing, test support WIN7, WIN8, WIN10 system; other self-test
+Hints
+If you use the Chinese input method, you may enter wrong commands; if you encounter problems with the Chinese input method, add two lines of code.
+Keyboard. press (KEY_CAPS_LOCK); // Press the capitalization key here, we'd better do this, otherwise most computers will have problems with Chinese input.
+Keyboard. release (KEY_CAPS_LOCK); // release uppercase key
+For more scripts, browse https://github.com/samratashok/Kautilya
+'For learning and communication only, please don't use it illegally.
+
